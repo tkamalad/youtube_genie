@@ -1,6 +1,5 @@
 streamlit
 requests
-json
 youtube_transcript_api
 urllib.parse
 pytube
